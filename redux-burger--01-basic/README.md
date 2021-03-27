@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2917,3 +2918,7 @@ No need to manually set History value: In React Router v4, all we need to do is 
 The packages are split: Three packages one each for Web, Native and Core. This supports the compact size of our application. It is easy to switch over based on a similar coding style.
 50. How is React Router different from conventional routing?
 Conventional Routing vs React Routing
+=======
+reduce in redux
+this will help organize the data without repeat calling the function
+>>>>>>> 31e89eccdeedb429e0596589a7b799508b2bc121
